@@ -4,7 +4,7 @@ Simple Restaurant Page made with webpack
 
 Made from [The Odin Project](https://www.theodinproject.com/lessons/node-path-javascript-restaurant-page)
 
-* Try Live Preview [here](https://cvariara.github.io/)
+* Try Live Preview [here](https://cvariara.github.io/restaurant/)
 
 ## About
 
